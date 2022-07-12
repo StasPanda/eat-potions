@@ -1,0 +1,11 @@
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__hp-title/header__hp-title.css);
+@import url(../blocks/header/__hp-value/header__hp-value.css);
+@import url(../blocks/header/__hp-icon/header__hp-icon.css);
+@import url(../blocks/potion/potion.css);
+@import url(../blocks/potion/__image/potion__image.css);
+@import url(../blocks/potion/__title/potion__title.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/rotation/rotation.css);
